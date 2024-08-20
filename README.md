@@ -1,11 +1,5 @@
-# CMPS 3160/6160: Introduction to Data Science
+# CMPS 4660/CMPS 6662: Human-Computer Interaction
 
 ## Tulane University
 
 Course website: <https://https://saadh.info/hci.html>
-
-Contents:
-
-- [_labs](_labs): Starter code for weekly labs.
-- [_demos](_demos): Code for in-class demonstrations.
-- [_projects](_projects): Instructions for course projects.
