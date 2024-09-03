@@ -26,323 +26,35 @@ published: true
 
 ## Week 1 (Aug 19 to Aug 23)
 **Watch:**
-- [Lecture Video 1](#)
 
 **Read:**
-- [Chapter 1: Introduction to HCI](#)
 
-**Quiz:**
-- [Quiz 1](#)
+**Slides:**
+- [What is HCI?](https://docs.google.com/presentation/d/1-0GfoUONmy6YB3WtgLskDYnCIqZSZiq_/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) - Task Analysis and User Research Techniques
+- [Perception (Vision)](https://docs.google.com/presentation/d/1GsQetrybZovSDBKmoVko3nxjmGxRG0sE/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) - HCI Overview and Key Concepts
 
-**Assignment:**
-- [Assignment 1](#)
-
-**Test:**
-- None
-
-**Project:**
-- Project Introduction
+---
 
 ## Week 2 (Aug 26 to Aug 30)
 **Watch:**
-- [Lecture Video 2](#)
+- [Human Error: Why It's More Predictable Than You Think](https://www.youtube.com/watch?v=s0hStSMc_Rs) - Exploring the Nature of Human Error in Design
 
 **Read:**
-- [Chapter 2: Human Perception](#)
+- [Slips: When Users Make Mistakes](https://www.nngroup.com/articles/slips/) - Understanding Slips and How to Design to Prevent Them
 
-**Quiz:**
-- [Quiz 2](#)
+**Slides:**
 
-**Assignment:**
-- [Assignment 2](#)
+- [Perception Contd. and Cognition](https://docs.google.com/presentation/d/1k601mWdSeEcUP3dKAceP9zmEgziymHB-/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+- [Cognition and Errors](https://docs.google.com/presentation/d/1T8r2RRDCE-3Bwvv5hG4tdNY_QzHpLy46/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
 
-**Test:**
-- None
-
-**Project:**
-- Project Proposal
-
-## Week 3 (Sept 2 to Sept 6)
+## Week 3 (Sep 3 to Sep 6)
 **Watch:**
-- [Lecture Video 3](#)
 
 **Read:**
-- [Chapter 3: Human Cognition](#)
+- [How to understand problems?](https://faculty.washington.edu/ajko/books/design-methods/understand) 
+- [How to define problems?](https://faculty.washington.edu/ajko/books/design-methods/problems) 
 
-**Quiz:**
-- [Quiz 3](#)
 
-**Assignment:**
-- [Assignment 3](#)
+**Slides:**
 
-**Test:**
-- None
 
-**Project:**
-- User Research Plan
-
-## Week 4 (Sept 9 to Sept 13)
-**Watch:**
-- [Lecture Video 4](#)
-
-**Read:**
-- [Chapter 4: Qualitative Research](#)
-
-**Quiz:**
-- [Quiz 4](#)
-
-**Assignment:**
-- [Assignment 4](#)
-
-**Test:**
-- None
-
-**Project:**
-- User Research Data Collection
-
-## Week 5 (Sept 16 to Sept 20)
-**Watch:**
-- [Lecture Video 5](#)
-
-**Read:**
-- [Chapter 5: Task-based Design](#)
-
-**Quiz:**
-- [Quiz 5](#)
-
-**Assignment:**
-- [Assignment 5](#)
-
-**Test:**
-- [Mid-term Exam 1](#)
-
-**Project:**
-- User Research Review
-
-## Week 6 (Sept 23 to Sept 27)
-**Watch:**
-- [Lecture Video 6](#)
-
-**Read:**
-- [Chapter 6: Experimental Design](#)
-
-**Quiz:**
-- [Quiz 6](#)
-
-**Assignment:**
-- [Assignment 6](#)
-
-**Test:**
-- None
-
-**Project:**
-- Task Review
-
-## Week 7 (Sept 30 to Oct 4)
-**Watch:**
-- [Lecture Video 7](#)
-
-**Read:**
-- [Chapter 7: Quantitative Data Analysis](#)
-
-**Quiz:**
-- [Quiz 7](#)
-
-**Assignment:**
-- [Assignment 7](#)
-
-**Test:**
-- None
-
-**Project:**
-- Design Ideation
-
-## Week 8 (Oct 7 to Oct 11)
-**Watch:**
-- [Lecture Video 8](#)
-
-**Read:**
-- [Chapter 8: HCI Models](#)
-
-**Quiz:**
-- [Quiz 8](#)
-
-**Assignment:**
-- [Assignment 8](#)
-
-**Test:**
-- None
-
-**Project:**
-- Design Narrowing
-
-## Week 9 (Oct 14 to Oct 18)
-**Watch:**
-- [Lecture Video 9](#)
-
-**Read:**
-- [Chapter 9: Empirical Evaluations](#)
-
-**Quiz:**
-- [Quiz 9](#)
-
-**Assignment:**
-- [Assignment 9](#)
-
-**Test:**
-- None
-
-**Project:**
-- Paper Prototype
-
-## Week 10 (Oct 21 to Oct 25)
-**Watch:**
-- [Lecture Video 10](#)
-
-**Read:**
-- [Chapter 10: Analytical Evaluations](#)
-
-**Quiz:**
-- [Quiz 10](#)
-
-**Assignment:**
-- [Assignment 10](#)
-
-**Test:**
-- None
-
-**Project:**
-- Heuristic Evaluation
-
-## Week 11 (Oct 28 to Nov 1)
-**Watch:**
-- [Lecture Video 11](#)
-
-**Read:**
-- [Chapter 11: Accessibility](#)
-
-**Quiz:**
-- None
-
-**Assignment:**
-- [Assignment 11](#)
-
-**Test:**
-- [Mid-term Exam 2](#)
-
-**Project:**
-- Usability Checking
-
-## Week 12 (Nov 4 to Nov 8)
-**Watch:**
-- [Lecture Video 12](#)
-
-**Read:**
-- [Chapter 12: Human-AI Interaction](#)
-
-**Quiz:**
-- None
-
-**Assignment:**
-- [Assignment 12](#)
-
-**Test:**
-- None
-
-**Project:**
-- Usability Testing
-
-## Week 13 (Nov 11 to Nov 15)
-**Watch:**
-- [Lecture Video 13](#)
-
-**Read:**
-- [Chapter 13: Critical Theories](#)
-
-**Quiz:**
-- None
-
-**Assignment:**
-- [Assignment 13](#)
-
-**Test:**
-- None
-
-**Project:**
-- Digital Mock-up
-
-## Week 14 (Nov 18 to Nov 22)
-**Watch:**
-- [Lecture Video 14](#)
-
-**Read:**
-- [Chapter 14: Guest Lecture 1](#)
-
-**Quiz:**
-- None
-
-**Assignment:**
-- [Assignment 14](#)
-
-**Test:**
-- None
-
-**Project:**
-- Reporting
-
-## Week 15 (Nov 25 to Nov 29)
-**Watch:**
-- [Lecture Video 15](#)
-
-**Read:**
-- [Chapter 15: Guest Lecture 2](#)
-
-**Quiz:**
-- None
-
-**Assignment:**
-- [Assignment 15](#)
-
-**Test:**
-- None
-
-**Project:**
-- Reporting
-
-## Week 16 (Dec 2 to Dec 6)
-**Watch:**
-- None
-
-**Read:**
-- None
-
-**Quiz:**
-- None
-
-**Assignment:**
-- None
-
-**Test:**
-- None
-
-**Project:**
-- Final Projects Due
-
-## Week 17 (Dec 9 to Dec 13)
-**Watch:**
-- None
-
-**Read:**
-- None
-
-**Quiz:**
-- None
-
-**Assignment:**
-- None
-
-**Test:**
-- None
-
-**Project:**
-- Final Presentations
