@@ -26,7 +26,7 @@ Course Credits: 3; Open to both undergraduate and graduate students; Pre-requisi
 
 * ### Course Assistant: Cameron A. McLaren
 
-  * **Office:** Stanley Thomas 316 or ZoomBD
+  * **Office:** Stanley Thomas 316 or Zoom
   * **Office Hours:** 4-5 PM on Mondays and 4-5 PM on Thursdays
      
      
