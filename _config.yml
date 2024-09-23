@@ -21,7 +21,7 @@ description: CMPS-4661/6663 - Human-Computer Interaction - Fall 2024
 # List of links in the navigation bar
 navbar-links:
   Syllabus: "syllabus"
-  Schedule and Assignments: "schedule"
+  Schedule: "schedule"
   Links & Resources: "resources"
   Projects: "projects"
 
