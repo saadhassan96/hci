@@ -85,11 +85,19 @@ Additional reading materials from current research will be provided as we procee
 
 ### Assignments (4 x 5% = 20%)
 
+Four assignments on qualitative research, design, prototyping, and quantitative HCI data analysis. 
+
 ### Exams (2 x 10% = 20%)
+
+Two tests consisting of multiple-choice and short questions.
 
 ### Quizzes (10 x 1% = 10%)
 
+Ten quizzes consisting of two multiple-choice questions.
+
 ### Class Participation and Reflections (5% + 1x5% = 10%)
+
+Attendance and class participation for undergraduate students. Additional reflections on research papers for graduate students.
 
 
 ## Evaluation Procedures and Grading Criteria

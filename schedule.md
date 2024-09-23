@@ -54,6 +54,27 @@ published: true
 - [How to understand problems?](https://faculty.washington.edu/ajko/books/design-methods/understand) 
 - [How to define problems?](https://faculty.washington.edu/ajko/books/design-methods/problems) 
 
+**Slides:**
+
+- [User Research Methods](https://docs.google.com/presentation/d/17NiW7Fz89ztQg9iQezY-2XmoYWxq1yjw/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+- [Surveys and Qualitative Anlysis](https://docs.google.com/presentation/d/1T8r2RRDCE-3Bwvv5hG4tdNY_QzHpLy46/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+
+## Week 4 (Sep 9 to Sep 13)
+**Watch:**
+
+**Slides:**
+
+<!-- - [Thematic Analysis and Affinity Mapping](https://docs.google.com/presentation/d/1Igu2HJ3TT4RmrpesDGlMMeh5KXyG4zu5/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)  -->
+- [Thematic Analysis and Affinity Mapping](https://docs.google.com/presentation/d/1ht0Wk2s0QwVnF9R0I0WenM7MTj2DDzpY/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+
+## Week 5 (Sep 16 to Sep 20)
+**Watch:**
+
+**Slides:**
+
+- [Thematic Analysis and Affinity Mapping](https://docs.google.com/presentation/d/1ht0Wk2s0QwVnF9R0I0WenM7MTj2DDzpY/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+- [User Profiles and Personas](https://docs.google.com/presentation/d/1vxP9jg5G4OgvdE-uJDray4fKs2RoSNZL/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+
 
 **Slides:**
 
