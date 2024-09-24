@@ -116,7 +116,7 @@ published: true
 
 **Recommended Readings:**
 
-- [How to Prototype?](https://faculty.washington.edu/ajko/books/design-methods/prototype)
+- [How to prototype?](https://faculty.washington.edu/ajko/books/design-methods/prototype)
 - [How to design interfaces?](https://faculty.washington.edu/ajko/books/design-methods/interfaces)
 
 **Optional Readings:**
