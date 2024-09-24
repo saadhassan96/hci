@@ -111,10 +111,6 @@ published: true
 
 - [Tools for Wireframing](https://www.uxness.in/2015/07/9-wireframing-tools.html)
 
-**Slides:**
-
-- [Scenarios and Prototyping](https://docs.google.com/presentation/d/1SsLUOALtzqNc9TLePq_lt-NFirZbRZFq/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
-
 **Read:**
 
 - [Task Analysis](https://www.nngroup.com/articles/task-analysis/) 
@@ -127,6 +123,12 @@ published: true
 - [Paper Prototyping: Getting User Data Before You Code](https://www.nngroup.com/articles/paper-prototyping/)  
 - [Paper Prototyping: A Cutout Kit](https://www.nngroup.com/articles/paper-prototyping-cutout-kit/)  
 - [Test Paper Prototypes to Save Time and Money](https://www.nngroup.com/articles/mozilla-paper-prototype/)
+
+**Slides:**
+
+- [Scenarios and Prototyping](https://docs.google.com/presentation/d/1SsLUOALtzqNc9TLePq_lt-NFirZbRZFq/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+
+
 
 
 
