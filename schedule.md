@@ -28,6 +28,7 @@ published: true
 **Watch:**
 
 **Read:**
+- [How do designers do?](https://faculty.washington.edu/ajko/books/design-methods/designers)
 
 **Slides:**
 - [What is HCI?](https://docs.google.com/presentation/d/1-0GfoUONmy6YB3WtgLskDYnCIqZSZiq_/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) - Task Analysis and User Research Techniques
@@ -119,6 +120,11 @@ published: true
 - [Paper Prototyping: Getting User Data Before You Code](https://www.nngroup.com/articles/paper-prototyping/)  
 - [Paper Prototyping: A Cutout Kit](https://www.nngroup.com/articles/paper-prototyping-cutout-kit/)  
 - [Test Paper Prototypes to Save Time and Money](https://www.nngroup.com/articles/mozilla-paper-prototype/)
+- [How to Prototype?](https://faculty.washington.edu/ajko/books/design-methods/prototype)
+- [How to design interfaces?](https://faculty.washington.edu/ajko/books/design-methods/interfaces)
+
+
+
 
 **Slides:**
 
