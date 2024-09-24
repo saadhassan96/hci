@@ -27,7 +27,7 @@ published: true
 ## Week 1 (Aug 19 to Aug 23)
 **Watch:**
 
-**Read:**
+**Optional Readings:**
 - [How do designers do?](https://faculty.washington.edu/ajko/books/design-methods/designers)
 
 **Slides:**
@@ -39,7 +39,7 @@ published: true
 ## Week 2 (Aug 26 to Aug 30)
 **Watch:**
 - [Human Error: Why It's More Predictable Than You Think](https://www.youtube.com/watch?v=s0hStSMc_Rs) 
-**Read:**
+**Optional Readings:**
 - [Slips: When Users Make Mistakes](https://www.nngroup.com/articles/slips/)
 
 **Slides:**
@@ -57,9 +57,11 @@ published: true
 - [Level Up Your Focus Groups (Video)](https://www.nngroup.com/videos/level-up-focus-groups/)
 
 
-**Read:**
+**Recommended Readings:**
 - [How to understand problems?](https://faculty.washington.edu/ajko/books/design-methods/understand) 
 - [How to define problems?](https://faculty.washington.edu/ajko/books/design-methods/problems)
+
+**Optional Readings:**
 - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)  
 - [User Interviews 101](https://www.nngroup.com/articles/user-interviews/)  
 - [The 3 Types of User Interviews: Structured, Semi-Structured](https://www.nngroup.com/videos/3-types-user-interviews/)  
@@ -79,7 +81,7 @@ published: true
 - [Avoid Keyword Matching in Affinity Diagramming (Video)](https://www.nngroup.com/videos/avoid-keyword-matching/)
 
 
-**Read:**
+**Optional Readings:**
 
 - [How to Analyze Qualitative Data from UX Research](https://www.nngroup.com/articles/affinity-diagram/)  
 - [How to Leverage Thematic Analysis for Better UX](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)
@@ -98,7 +100,7 @@ published: true
 - [Thematic Analysis and Affinity Mapping](https://docs.google.com/presentation/d/1ht0Wk2s0QwVnF9R0I0WenM7MTj2DDzpY/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
 - [User Profiles and Personas](https://docs.google.com/presentation/d/1vxP9jg5G4OgvdE-uJDray4fKs2RoSNZL/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
 
-**Read:**
+**Optional Readings:**
 
 - [Personas Make Users Memorable for Product Team Members](https://www.nngroup.com/articles/persona/) 
 - [Personas: Study Guide](https://www.nngroup.com/articles/personas-study-guide/) 
@@ -109,7 +111,12 @@ published: true
 
 - [Tools for Wireframing](https://www.uxness.in/2015/07/9-wireframing-tools.html)
 
-**Read:**
+**Recommended Readings:**
+
+- [How to Prototype?](https://faculty.washington.edu/ajko/books/design-methods/prototype)
+- [How to design interfaces?](https://faculty.washington.edu/ajko/books/design-methods/interfaces)
+
+**Optional Readings:**
 
 - [Task Analysis](https://www.nngroup.com/articles/task-analysis/) 
 - [Understanding User Pathways in Analytics](https://www.nngroup.com/articles/analytics-pathways/) 
