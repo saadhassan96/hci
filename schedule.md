@@ -50,9 +50,23 @@ published: true
 ## Week 3 (Sep 3 to Sep 6)
 **Watch:**
 
+- [5 Qualitative Research Methods (Video)](https://www.nngroup.com/videos/5-qualitative-research-methods/)  
+- [What are Contextual Inquiries? (Video)](https://www.nngroup.com/videos/what-are-contextual-inquiries/)  
+- [Using the Funnel Technique in User Interviews (Video)](https://www.nngroup.com/videos/funnel-technique-interviews/)  
+- [Five User Interview Mistakes to Avoid (in 5 Minutes) (Video)](https://www.nngroup.com/videos/interview-mistakes-to-avoid/)  
+- [Level Up Your Focus Groups (Video)](https://www.nngroup.com/videos/level-up-focus-groups/)
+
+
 **Read:**
 - [How to understand problems?](https://faculty.washington.edu/ajko/books/design-methods/understand) 
-- [How to define problems?](https://faculty.washington.edu/ajko/books/design-methods/problems) 
+- [How to define problems?](https://faculty.washington.edu/ajko/books/design-methods/problems)
+- [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)  
+- [User Interviews 101](https://www.nngroup.com/articles/user-interviews/)  
+- [The 3 Types of User Interviews: Structured, Semi-Structured](https://www.nngroup.com/videos/3-types-user-interviews/)  
+- [Focus Groups 101](https://www.nngroup.com/articles/focus-groups-definition/)  
+- [28 Tips for Creating Great Qualitative Surveys](https://www.nngroup.com/articles/qualitative-surveys/)  
+- [Surveys for UX Research](http://www.userinterviews.com/ux-research-field-guide-chapter/surveys)
+
 
 **Slides:**
 
@@ -62,10 +76,19 @@ published: true
 ## Week 4 (Sep 9 to Sep 13)
 **Watch:**
 
+- [Avoid Keyword Matching in Affinity Diagramming (Video)](https://www.nngroup.com/videos/avoid-keyword-matching/)
+
+
+**Read:**
+
+- [How to Analyze Qualitative Data from UX Research](https://www.nngroup.com/articles/affinity-diagram/)  
+- [How to Leverage Thematic Analysis for Better UX](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)
+
 **Slides:**
 
-<!-- - [Thematic Analysis and Affinity Mapping](https://docs.google.com/presentation/d/1Igu2HJ3TT4RmrpesDGlMMeh5KXyG4zu5/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)  -->
 - [Thematic Analysis and Affinity Mapping](https://docs.google.com/presentation/d/1ht0Wk2s0QwVnF9R0I0WenM7MTj2DDzpY/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+
+
 
 ## Week 5 (Sep 16 to Sep 20)
 **Watch:**
@@ -75,7 +98,39 @@ published: true
 - [Thematic Analysis and Affinity Mapping](https://docs.google.com/presentation/d/1ht0Wk2s0QwVnF9R0I0WenM7MTj2DDzpY/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
 - [User Profiles and Personas](https://docs.google.com/presentation/d/1vxP9jg5G4OgvdE-uJDray4fKs2RoSNZL/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
 
+**Read:**
+
+- [Personas Make Users Memorable for Product Team Members](https://www.nngroup.com/articles/persona/) 
+
+- [Personas: Study Guide](https://www.nngroup.com/articles/personas-study-guide/) 
+
+- [User Persona Examples](https://userguiding.com/blog/user-persona-examples) 
+
+## Week 6 (Sep 23 to Sep 27)
+**Watch:**
+
+- [Tools for Wireframing](https://www.uxness.in/2015/07/9-wireframing-tools.html)
 
 **Slides:**
+
+- [Scenarios and Prototyping](https://docs.google.com/presentation/d/1SsLUOALtzqNc9TLePq_lt-NFirZbRZFq/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+
+**Read:**
+
+- [Task Analysis](https://www.nngroup.com/articles/task-analysis/) 
+- [Understanding User Pathways in Analytics](https://www.nngroup.com/articles/analytics-pathways/) 
+- [Scenario Mapping: Design Ideation Using Personas
+](https://www.nngroup.com/articles/scenario-mapping-personas/) 
+
+- [5 Common Low-Fidelity Prototypes and Their Best Practice](https://www.interaction-design.org/literature/article/prototyping-learn-eight-common-methods-and-best-practices)  
+- [UX Prototypes: Low Fidelity vs. High Fidelity](https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/)  
+- [Paper Prototyping: Getting User Data Before You Code](https://www.nngroup.com/articles/paper-prototyping/)  
+- [Paper Prototyping: A Cutout Kit](https://www.nngroup.com/articles/paper-prototyping-cutout-kit/)  
+- [Test Paper Prototypes to Save Time and Money](https://www.nngroup.com/articles/mozilla-paper-prototype/)
+
+
+
+
+
 
 
