@@ -37,10 +37,9 @@ published: true
 
 ## Week 2 (Aug 26 to Aug 30)
 **Watch:**
-- [Human Error: Why It's More Predictable Than You Think](https://www.youtube.com/watch?v=s0hStSMc_Rs) - Exploring the Nature of Human Error in Design
-
+- [Human Error: Why It's More Predictable Than You Think](https://www.youtube.com/watch?v=s0hStSMc_Rs) 
 **Read:**
-- [Slips: When Users Make Mistakes](https://www.nngroup.com/articles/slips/) - Understanding Slips and How to Design to Prevent Them
+- [Slips: When Users Make Mistakes](https://www.nngroup.com/articles/slips/)
 
 **Slides:**
 
