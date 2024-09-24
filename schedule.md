@@ -39,7 +39,9 @@ published: true
 ## Week 2 (Aug 26 to Aug 30)
 **Watch:**
 - [Human Error: Why It's More Predictable Than You Think](https://www.youtube.com/watch?v=s0hStSMc_Rs) 
+
 **Optional Readings:**
+
 - [Slips: When Users Make Mistakes](https://www.nngroup.com/articles/slips/)
 
 **Slides:**
@@ -62,6 +64,7 @@ published: true
 - [How to define problems?](https://faculty.washington.edu/ajko/books/design-methods/problems)
 
 **Optional Readings:**
+
 - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)  
 - [User Interviews 101](https://www.nngroup.com/articles/user-interviews/)  
 - [The 3 Types of User Interviews: Structured, Semi-Structured](https://www.nngroup.com/videos/3-types-user-interviews/)  
