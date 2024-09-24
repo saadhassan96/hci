@@ -101,9 +101,7 @@ published: true
 **Read:**
 
 - [Personas Make Users Memorable for Product Team Members](https://www.nngroup.com/articles/persona/) 
-
 - [Personas: Study Guide](https://www.nngroup.com/articles/personas-study-guide/) 
-
 - [User Persona Examples](https://userguiding.com/blog/user-persona-examples) 
 
 ## Week 6 (Sep 23 to Sep 27)
@@ -117,7 +115,6 @@ published: true
 - [Understanding User Pathways in Analytics](https://www.nngroup.com/articles/analytics-pathways/) 
 - [Scenario Mapping: Design Ideation Using Personas
 ](https://www.nngroup.com/articles/scenario-mapping-personas/) 
-
 - [5 Common Low-Fidelity Prototypes and Their Best Practice](https://www.interaction-design.org/literature/article/prototyping-learn-eight-common-methods-and-best-practices)  
 - [UX Prototypes: Low Fidelity vs. High Fidelity](https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/)  
 - [Paper Prototyping: Getting User Data Before You Code](https://www.nngroup.com/articles/paper-prototyping/)  
