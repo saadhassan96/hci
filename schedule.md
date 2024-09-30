@@ -139,6 +139,7 @@ published: true
 **Slides:**
 
 - [Scenarios and Prototyping](https://docs.google.com/presentation/d/1SsLUOALtzqNc9TLePq_lt-NFirZbRZFq/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+- [Design Principles](https://docs.google.com/presentation/d/1HZ5_hqgWW7dGVXQM7jVWlcZK7mjXliT2/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
 
 
 
