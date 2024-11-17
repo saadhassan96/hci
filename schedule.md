@@ -261,7 +261,7 @@ published: true
 **Slides:**
 
 - [HCI Models and Laws](https://docs.google.com/presentation/d/1ZoExbYxCXnR9E4LKHDHgue4zgy-gqHic/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
-- [HCI Design Principles](https://docs.google.com/presentation/d/1sfv1vWFLdxJ5XF7CM4UuD9R6fJQvJXC1/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
+- [HCI Models and Laws](https://docs.google.com/presentation/d/1sfv1vWFLdxJ5XF7CM4UuD9R6fJQvJXC1/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
 
 
 ## Week 13 (Nov 18 to Nov 22)
