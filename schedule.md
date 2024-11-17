@@ -142,6 +142,166 @@ published: true
 - [Design Principles](https://docs.google.com/presentation/d/1HZ5_hqgWW7dGVXQM7jVWlcZK7mjXliT2/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
 
 
+## Week 7 (Sep 30 to Oct 4)
+**Watch:**
+
+- 
+
+**Recommended Readings:**
+
+- 
+
+**Optional Readings:**
+
+- 
+
+
+
+**Slides:**
+
+- [Prototyping](https://docs.google.com/presentation/d/188o2omQCHQOv0d0qUTMnBbmVVKrDibzb/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+
+## Week 8 (Oct 7 to Oct 11)
+**Watch:**
+
+- 
+
+**Recommended Readings:**
+
+- 
+
+**Optional Readings:**
+
+- 
+
+
+
+**Slides:**
+
+- [Test 1 Review](https://docs.google.com/presentation/d/1AKuc6ghjkHEMIvCz3E4K2OUPOf8DdTlk/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+
+
+## Week 9 (Oct 14 to Oct 18)
+**Watch:**
+
+- 
+
+**Recommended Readings:**
+
+- 
+
+**Optional Readings:**
+
+- 
+
+
+
+**Slides:**
+
+- [Test 1 Review and Presentations](https://docs.google.com/presentation/d/1rvOV8n0heEEuJfQDiRDno5Gdx_4tQlca/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+- [Scientific Foundations](https://docs.google.com/presentation/d/15NTJSrgxnyIkElNr1SmxjTF0UcaKStpJ/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
+
+## Week 10 (Oct 21 to Oct 25)
+**Watch:**
+
+- 
+
+**Recommended Readings:**
+
+- 
+
+**Optional Readings:**
+
+- 
+
+
+
+**Slides:**
+
+- [Experiment Design](https://docs.google.com/presentation/d/1yPHmk-f0B3ppR_n200vRdBiV2qPuyHVx/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+- [Hypothesis Testing](https://docs.google.com/presentation/d/10KdzWXOVtPfLrcNQ9N4mfl1LU3dqfs5E/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
+
+
+## Week 11 (Oct 28 to Nov 1)
+**Watch:**
+
+- 
+
+**Recommended Readings:**
+
+- 
+
+**Optional Readings:**
+
+- 
+
+
+
+**Slides:**
+
+- [Hypothesis Testing Demo](https://docs.google.com/presentation/d/1oyNTa1y_6vhYoJfatJ2h5jzWjd3b8U1a/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+- [Heuristic Evaluation](https://docs.google.com/presentation/d/1l5LUE5rcOoUWTAg_eTpSTmCudoz8RvAR/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
+
+## Week 12 (Nov 4 to Nov 8)
+**Watch:**
+
+- 
+
+**Recommended Readings:**
+
+- 
+
+**Optional Readings:**
+
+- 
+
+
+
+**Slides:**
+
+- [HCI Models and Laws](https://docs.google.com/presentation/d/1ZoExbYxCXnR9E4LKHDHgue4zgy-gqHic/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+- [HCI Design Principles](https://docs.google.com/presentation/d/1sfv1vWFLdxJ5XF7CM4UuD9R6fJQvJXC1/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
+
+## Week 7 (Oct 11 to Nov 15)
+**Watch:**
+
+- 
+
+**Recommended Readings:**
+
+- 
+
+**Optional Readings:**
+
+- 
+
+
+
+**Slides:**
+
+- [Scenarios and Prototyping](https://docs.google.com/presentation/d/1SsLUOALtzqNc9TLePq_lt-NFirZbRZFq/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+- [Design Principles](https://docs.google.com/presentation/d/1HZ5_hqgWW7dGVXQM7jVWlcZK7mjXliT2/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
+
+## Week 13 (Nov 18 to Nov 22)
+**Watch:**
+
+- 
+
+**Recommended Readings:**
+
+- 
+
+**Optional Readings:**
+
+- 
+
+
+
+**Slides:**
+
+- [Cognitive Walkthroughs and Usability Testing](https://docs.google.com/presentation/d/1VB4XmFqbG8TscGOh6qqrnYJaUB7xiDGs/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
+- [Designing for Human-AI Interaction](https://docs.google.com/presentation/d/1GfYt05os8Z-93xVVcCGlNbVsrcT0WmNy/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
+
 
 
 
