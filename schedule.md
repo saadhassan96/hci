@@ -184,7 +184,7 @@ published: true
 ## Week 9 (Oct 14 to Oct 18)
 **Watch:**
 
-- 
+- [Chapter 4, MacKenzie S. I. (2013) Human-Computer Interaction: An Empirical Research Perspective.](https://www.amazon.com/Human-Computer-Interaction-Empirical-Research-Perspective/dp/0124058655)
 
 **Recommended Readings:**
 
@@ -208,7 +208,8 @@ published: true
 
 **Recommended Readings:**
 
-- 
+- [Chapter 5, MacKenzie S. I. (2013) Human-Computer Interaction: An Empirical Research Perspective.](https://www.amazon.com/Human-Computer-Interaction-Empirical-Research-Perspective/dp/0124058655)
+- [Chapter 6, MacKenzie S. I. (2013) Human-Computer Interaction: An Empirical Research Perspective.](https://www.amazon.com/Human-Computer-Interaction-Empirical-Research-Perspective/dp/0124058655)
 
 **Optional Readings:**
 
@@ -229,7 +230,7 @@ published: true
 
 **Recommended Readings:**
 
-- 
+- [How to evaluate analytically?](https://faculty.washington.edu/ajko/books/design-methods/analytical)
 
 **Optional Readings:**
 
@@ -249,7 +250,7 @@ published: true
 
 **Recommended Readings:**
 
-- 
+- [Chapter 7, MacKenzie S. I. (2013) Human-Computer Interaction: An Empirical Research Perspective.](https://www.amazon.com/Human-Computer-Interaction-Empirical-Research-Perspective/dp/0124058655)
 
 **Optional Readings:**
 
@@ -262,25 +263,6 @@ published: true
 - [HCI Models and Laws](https://docs.google.com/presentation/d/1ZoExbYxCXnR9E4LKHDHgue4zgy-gqHic/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
 - [HCI Design Principles](https://docs.google.com/presentation/d/1sfv1vWFLdxJ5XF7CM4UuD9R6fJQvJXC1/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
 
-## Week 7 (Oct 11 to Nov 15)
-**Watch:**
-
-- 
-
-**Recommended Readings:**
-
-- 
-
-**Optional Readings:**
-
-- 
-
-
-
-**Slides:**
-
-- [Scenarios and Prototyping](https://docs.google.com/presentation/d/1SsLUOALtzqNc9TLePq_lt-NFirZbRZFq/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
-- [Design Principles](https://docs.google.com/presentation/d/1HZ5_hqgWW7dGVXQM7jVWlcZK7mjXliT2/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
 
 ## Week 13 (Nov 18 to Nov 22)
 **Watch:**
@@ -289,7 +271,8 @@ published: true
 
 **Recommended Readings:**
 
-- 
+- [How to evaluate empirically?](https://faculty.washington.edu/ajko/books/design-methods/empirical)
+- [How to evaluate analytically?](https://faculty.washington.edu/ajko/books/design-methods/analytical)
 
 **Optional Readings:**
 
