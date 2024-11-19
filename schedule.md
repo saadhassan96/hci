@@ -264,7 +264,7 @@ published: true
 - [HCI Models and Laws](https://docs.google.com/presentation/d/1sfv1vWFLdxJ5XF7CM4UuD9R6fJQvJXC1/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
 
 
-## Week 13 (Nov 18 to Nov 22)
+## Week 13 (Nov 11 to Nov 15)
 **Watch:**
 
 - 
@@ -285,6 +285,24 @@ published: true
 - [Cognitive Walkthroughs and Usability Testing](https://docs.google.com/presentation/d/1VB4XmFqbG8TscGOh6qqrnYJaUB7xiDGs/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
 - [Designing for Human-AI Interaction](https://docs.google.com/presentation/d/1GfYt05os8Z-93xVVcCGlNbVsrcT0WmNy/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true)
 
+
+## Week 14 (Nov 18 to Nov 22)
+**Watch:**
+
+- 
+
+**Recommended Readings:**
+
+
+**Optional Readings:**
+
+- 
+
+
+
+**Slides:**
+
+- [Test 2 Review, Milestone 1 Presentation Review](https://docs.google.com/presentation/d/1Pvr_xS1weuEaiEiPfrdjWsp-zY1Gxehf/edit?usp=sharing&ouid=104913367015461668120&rtpof=true&sd=true) 
 
 
 
