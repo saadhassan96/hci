@@ -51,6 +51,21 @@ function patchWeekOne() {
   details.dataset.weekOneReadings = "true";
 }
 
-const observer = new MutationObserver(patchWeekOne);
+function patchOfficeHours() {
+  const assistantCard = [...document.querySelectorAll(".info-card")]
+    .find((card) => card.textContent.includes("chaelin kim"));
+  const officeHours = assistantCard?.querySelector(".info-meta");
+
+  if (officeHours) {
+    officeHours.textContent = "paul hall 309 · tuesdays, 2:00–4:00 pm · wednesdays, 5:00–6:00 pm · thursdays, 2:00–3:00 pm";
+  }
+}
+
+function patchPage() {
+  patchWeekOne();
+  patchOfficeHours();
+}
+
+const observer = new MutationObserver(patchPage);
 observer.observe(document.getElementById("root"), { childList: true, subtree: true });
-patchWeekOne();
+patchPage();
