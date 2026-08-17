@@ -55,9 +55,10 @@ function patchOfficeHours() {
   const assistantCard = [...document.querySelectorAll(".info-card")]
     .find((card) => card.textContent.includes("chaelin kim"));
   const officeHours = assistantCard?.querySelector(".info-meta");
+  const updatedHours = "paul hall 309 · tuesdays, 2:00–4:00 pm · wednesdays, 5:00–6:00 pm · thursdays, 2:00–3:00 pm";
 
-  if (officeHours) {
-    officeHours.textContent = "paul hall 309 · tuesdays, 2:00–4:00 pm · wednesdays, 5:00–6:00 pm · thursdays, 2:00–3:00 pm";
+  if (officeHours && officeHours.textContent !== updatedHours) {
+    officeHours.textContent = updatedHours;
   }
 }
 
