@@ -52,13 +52,22 @@ function patchWeekOne() {
 }
 
 function patchOfficeHours() {
-  const assistantCard = [...document.querySelectorAll(".info-card")]
+  const cards = [...document.querySelectorAll(".info-card")];
+  const instructorCard = cards
+    .find((card) => card.textContent.includes("dr. saad hassan"));
+  const instructorOfficeHours = instructorCard?.querySelector(".info-meta");
+  const updatedInstructorHours = "paul hall 307 · tuesday, 3:00–4:00 pm";
+  const assistantCard = cards
     .find((card) => card.textContent.includes("chaelin kim"));
-  const officeHours = assistantCard?.querySelector(".info-meta");
-  const updatedHours = "paul hall 309 · tuesdays, 2:00–4:00 pm · wednesdays, 5:00–6:00 pm · thursdays, 2:00–3:00 pm";
+  const assistantOfficeHours = assistantCard?.querySelector(".info-meta");
+  const updatedAssistantHours = "paul hall 309 · tuesdays, 2:00–4:00 pm · wednesdays, 5:00–6:00 pm · thursdays, 2:00–3:00 pm";
 
-  if (officeHours && officeHours.textContent !== updatedHours) {
-    officeHours.textContent = updatedHours;
+  if (instructorOfficeHours && instructorOfficeHours.textContent !== updatedInstructorHours) {
+    instructorOfficeHours.textContent = updatedInstructorHours;
+  }
+
+  if (assistantOfficeHours && assistantOfficeHours.textContent !== updatedAssistantHours) {
+    assistantOfficeHours.textContent = updatedAssistantHours;
   }
 }
 
