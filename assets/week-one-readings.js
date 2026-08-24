@@ -71,9 +71,75 @@ function patchOfficeHours() {
   }
 }
 
+function makeTextSection(label, text) {
+  const section = document.createElement("div");
+  const heading = document.createElement("span");
+  const paragraph = document.createElement("p");
+  heading.textContent = label;
+  paragraph.textContent = text;
+  section.append(heading, paragraph);
+  return section;
+}
+
+function patchWeeksTwoAndThree() {
+  const rows = [...document.querySelectorAll(".schedule-row")];
+  const weekTwoSummary = rows[1]?.querySelector("summary");
+  const weekThreeSummary = rows[2]?.querySelector("summary");
+
+  if (weekTwoSummary) {
+    const cells = weekTwoSummary.children;
+    if (cells[2]?.textContent !== "vision, hearing, and motor control") cells[2].textContent = "vision, hearing, and motor control";
+    if (cells[3]?.textContent !== "cognition") cells[3].textContent = "cognition";
+  }
+
+  if (weekThreeSummary) {
+    const cells = weekThreeSummary.children;
+    if (cells[1]?.textContent !== "needs and motivations") cells[1].textContent = "needs and motivations";
+    if (cells[2]?.textContent !== "behavior and patterns") cells[2].textContent = "behavior and patterns";
+    if (cells[3]?.textContent !== "communication and collaboration") cells[3].textContent = "communication and collaboration";
+  }
+
+  const weekTwoDetails = rows[1]?.querySelector(".schedule-details");
+  if (weekTwoDetails && weekTwoDetails.dataset.updatedReadings !== "true") {
+    weekTwoDetails.replaceChildren(
+      makeTextSection("required reading", "none"),
+      makeSection({
+        label: "suggested readings",
+        links: [[
+          "Part II: Understanding People — Hornbæk et al. (2025)",
+          "https://watermark02.silverchair.com/9780192679741_web.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAnEwggJtBgkqhkiG9w0BBwagggJeMIICWgIBADCCAlMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMpq_JsJNxxAGK5LeZAgEQgIICJB1GNvy2TXxL5hNnCyCkzab6bEMKH6LvlnARieWq6BD2Muu_5b-dDixxYJOEdHU9iKrsWOJPqj_dlG-ZVs1QR0J4K77x9ne8c0J5Md_J5-I8rIQewlURwldnofWqDrsr_viLFdbnmH0_vqBtkLqDK7FyNFOp_mQi9BfbidEQYBKebE6bKJT6Op4u5P0iDOR8p20RuaKfg6dPPgZhlL4SJFfy6SpTpeJ58X3j6YFHshq6WGZCZIpVvvouvEGzO8gWu1dzvN-cDk-mwnTE9sQS8aNxdbyZxvmSpIKY_VGzipwfcnRrwJ6-VfJvAx5djHJQ4JlPzKmApVvm6MEMlfQfLXHlvEs99l3XJZBsBvpQoI7j--s9Gc8aun_L213LyTLt0C7yom7jX1mS_BAf_SEbq33O924FEuIVR176cMBrGeintELuJI1BYQedrzvvcYMxDHI9J059TPQDy57noNe7oludfF3ommPHjGSId5fLUkb1Oh_4t5Wd3RPf-754Gl53yyicibtqxFItVKktyFwI-8M80WEzYYpLLxec7jSdD6414IuI8rgEjrwE0NkaNOV6bNCo7X3turRxOEHkMC7ZIOFDGx3MEPVUmlv9YkyPaf_MAt2zNWd6hvWfTHq6eSVEzvjBRy9nGtMPLjEqQewcS2-7jUIKN2qQmNokxC8iayuax1GiYq41-BScezawYKSjhkTjaCVBtwjJHw6stpUTuGL4GoEG",
+        ]],
+      }),
+      makeTextSection("notes and resources", "review project groups · in-class activities on both Tuesday and Thursday"),
+    );
+    weekTwoDetails.dataset.updatedReadings = "true";
+  }
+}
+
+function patchSyllabusResources() {
+  const courseResources = document.querySelector(".resource-groups section .resource-list");
+  if (!courseResources || courseResources.querySelector("[data-hornbaek-book]")) return;
+  const mackenzie = [...courseResources.children].find((item) => item.textContent.includes("mackenzie"));
+  if (!mackenzie) return;
+
+  const book = document.createElement("a");
+  const title = document.createElement("span");
+  const details = document.createElement("small");
+  book.href = "https://introductiontohci.org/";
+  book.target = "_blank";
+  book.rel = "noreferrer";
+  book.dataset.hornbaekBook = "true";
+  title.textContent = "introduction to human–computer interaction";
+  details.textContent = "hornbæk, kristensson & oulasvirta · 2025 · free PDF online ↗";
+  book.append(title, details);
+  courseResources.insertBefore(book, mackenzie);
+}
+
 function patchPage() {
   patchWeekOne();
   patchOfficeHours();
+  patchWeeksTwoAndThree();
+  patchSyllabusResources();
 }
 
 const observer = new MutationObserver(patchPage);
