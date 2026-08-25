@@ -116,6 +116,19 @@ function patchWeeksTwoAndThree() {
   }
 }
 
+function patchWeeksSixAndSeven() {
+  const rows = [...document.querySelectorAll(".schedule-row")];
+  const weekSixCells = rows[5]?.querySelector("summary")?.children;
+  const weekSevenCells = rows[6]?.querySelector("summary")?.children;
+
+  if (weekSixCells?.[3]?.textContent !== "presentations 1") {
+    weekSixCells[3].textContent = "presentations 1";
+  }
+  if (weekSevenCells?.[2]?.textContent !== "test 1") {
+    weekSevenCells[2].textContent = "test 1";
+  }
+}
+
 function patchSyllabusResources() {
   const courseResources = document.querySelector(".resource-groups section .resource-list");
   if (!courseResources || courseResources.querySelector("[data-hornbaek-book]")) return;
@@ -139,6 +152,7 @@ function patchPage() {
   patchWeekOne();
   patchOfficeHours();
   patchWeeksTwoAndThree();
+  patchWeeksSixAndSeven();
   patchSyllabusResources();
 }
 
