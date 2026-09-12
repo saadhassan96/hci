@@ -9624,7 +9624,7 @@ Error generating stack: ` + e.message + `
     f = [{
         number: `1`,
         title: `topic selection`,
-        due: `september 9 · 5:00 pm`,
+        due: `september 13 · 5:00 pm`,
         description: `identify a compelling problem worth solving, understand what already exists, and define a meaningful opportunity for design.`,
         deliverables: [`problem summary`, `literature review / competitive analysis`, `gaps, initial plan, and team plan`]
     }, {
