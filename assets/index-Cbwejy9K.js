@@ -9420,7 +9420,7 @@ Error generating stack: ` + e.message + `
     d = [{
         week: 1,
         dates: `aug 17–21`,
-        focus: `hci in the ai age`,
+        focus: `intro`,
         tuesday: `what is hci?`,
         thursday: `what is hai?`,
         due: `quiz 1 · aug 20, 11:00 am`,
