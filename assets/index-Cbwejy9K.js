@@ -9539,38 +9539,38 @@ Error generating stack: ` + e.message + `
     }, {
         week: 6,
         dates: `sep 21–25`,
-        focus: `design`,
-        tuesday: `interaction design`,
+        focus: `interaction`,
+        tuesday: `tbd`,
         thursday: `tbd`,
         due: `quiz 6 · sep 22, 11:00 am`
     }, {
         week: 7,
         dates: `sep 28–oct 2`,
-        focus: `mid-term week`,
+        focus: `test 1`,
         tuesday: `test 1`,
         thursday: `fall break`,
         note: `fall break`
     }, {
         week: 8,
         dates: `oct 5–9`,
-        focus: `prototyping`,
+        focus: `interfaces`,
         tuesday: `presentations 1`,
-        thursday: `prototyping`,
+        thursday: `tbd`,
         due: `quiz 7 · oct 8, 11:00 am; milestone 2 · oct 7, 5:00 pm`
     }, {
         week: 9,
         dates: `oct 12–16`,
-        focus: `experiments`,
-        tuesday: `questions`,
-        thursday: `study design`,
+        focus: `engineering`,
+        tuesday: `systems thinking`,
+        thursday: `end-user development`,
         due: `quiz 8 · oct 15, 11:00 am`,
         note: `mid-term grades available`
     }, {
         week: 10,
         dates: `oct 19–23`,
-        focus: `hypothesis testing`,
-        tuesday: `statistics`,
-        thursday: `interpretation`,
+        focus: `experiments`,
+        tuesday: `study design`,
+        thursday: `hypothesis testing`,
         due: `quiz 9 · oct 22, 11:00 am`
     }, {
         week: 11,
@@ -9583,8 +9583,8 @@ Error generating stack: ` + e.message + `
         week: 12,
         dates: `nov 2–6`,
         focus: `evaluation`,
-        tuesday: `heuristic evaluation`,
-        thursday: `usability testing`,
+        tuesday: `tbd`,
+        thursday: `tbd`,
         due: `quiz 10 · nov 5, 11:00 am`
     }, {
         week: 13,
