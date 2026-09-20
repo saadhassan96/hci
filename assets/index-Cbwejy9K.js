@@ -9650,8 +9650,8 @@ Error generating stack: ` + e.message + `
         number: `2`,
         title: `getting the right design`,
         due: `october 7 · 5:00 pm`,
-        description: `conduct two complementary user-research methods, analyze the evidence, model users, and translate findings into task scenarios.`,
-        deliverables: [`user research methods and findings`, `user profiles and three personas`, `scenario-based design with at least 10 task scenarios`]
+        description: `conduct two complementary user-research methods, synthesize personas and scenarios, and derive task analyses and user requirements.`,
+        deliverables: [`user research methods and findings`, `at least three personas and three scenarios`, `at least two HTAs and five prioritized user requirements`]
     }, {
         number: `3`,
         title: `prototype building`,
@@ -10259,6 +10259,9 @@ var S = [{
         href: `https://www.nngroup.com/videos/avoid-keyword-matching/`
     }],
     re = [{
+        label: `scenario mapping and the anatomy of a scenario`,
+        href: `https://www.nngroup.com/articles/scenario-mapping-personas/`
+    }, {
         label: `personas: study guide`,
         href: `https://www.nngroup.com/articles/personas-study-guide/`
     }, {
@@ -10272,11 +10275,8 @@ var S = [{
         label: `task analysis: support users in achieving their goals`,
         href: `https://www.nngroup.com/articles/task-analysis/`
     }, {
-        label: `scenario mapping and the anatomy of a scenario`,
-        href: `https://www.nngroup.com/articles/scenario-mapping-personas/`
-    }, {
-        label: `understanding user pathways in analytics`,
-        href: `https://www.nngroup.com/articles/analytics-pathways/`
+        label: `representing user research: HTA, rich pictures, and requirements — Hornbæk et al. (2025), chapter 15`,
+        href: `https://academic.oup.com/book/60808?login=false`
     }];
 
 function ie() {
@@ -10290,7 +10290,7 @@ function ie() {
             className: `milestone-detail-hero`,
             children: [(0, h.jsxs)(`div`, {
                 children: [(0, h.jsx)(`p`, {
-                    children: `milestone 2 · 40 points`
+                    children: `milestone 2 · 40 points + up to 5 bonus points`
                 }), (0, h.jsx)(`h1`, {
                     children: `getting the right design`
                 })]
@@ -10485,147 +10485,18 @@ function ie() {
                         links: ne
                     })]
                 })]
-            }), (0, h.jsxs)(`section`, {
-                className: `assignment-section assignment-section-deep`,
-                id: `section-3`,
-                children: [(0, h.jsx)(`div`, {
-                    className: `assignment-number`,
-                    children: `3`
-                }), (0, h.jsxs)(`div`, {
-                    className: `assignment-content`,
-                    children: [(0, h.jsxs)(`header`, {
-                        className: `assignment-heading`,
-                        children: [(0, h.jsx)(`div`, {
-                            children: (0, h.jsx)(`h2`, {
-                                children: `modeling users`
-                            })
-                        }), (0, h.jsx)(`span`, {
-                            children: `10 points`
-                        })]
-                    }), (0, h.jsx)(`div`, {
-                        className: `assignment-copy`,
-                        children: (0, h.jsx)(`p`, {
-                            children: `Use your findings to develop concise, evidence-based representations of who you are designing for and what matters to them. Your user models should emerge from patterns in your research rather than from stereotypes, assumptions, or details invented to make a persona more interesting.`
-                        })
-                    }), (0, h.jsxs)(`section`, {
-                        className: `assignment-subsection`,
-                        children: [(0, h.jsxs)(`header`, {
-                            children: [(0, h.jsx)(`span`, {
-                                children: `3.1`
-                            }), (0, h.jsxs)(`div`, {
-                                children: [(0, h.jsx)(`h3`, {
-                                    children: `modeling approach`
-                                }), (0, h.jsx)(`p`, {
-                                    children: `recommended length: 200–300 words`
-                                })]
-                            })]
-                        }), (0, h.jsx)(`p`, {
-                            children: `Explain how your findings led you to identify important user characteristics and, where applicable, distinct user or stakeholder groups. If your project involves multiple categories of users, explain what meaningfully distinguishes them. Describe which patterns from your research informed the profiles and personas that follow.`
-                        })]
-                    }), (0, h.jsxs)(`section`, {
-                        className: `assignment-subsection`,
-                        children: [(0, h.jsxs)(`header`, {
-                            children: [(0, h.jsx)(`span`, {
-                                children: `3.2`
-                            }), (0, h.jsx)(`div`, {
-                                children: (0, h.jsx)(`h3`, {
-                                    children: `user profiles`
-                                })
-                            })]
-                        }), (0, h.jsx)(`p`, {
-                            children: `Create a user profile for each meaningful user or stakeholder category identified through your research. Profiles may be presented as tables, figures, or concise prose. Include characteristics that have implications for design, such as users' goals, behaviors, abilities, practices, attitudes, preferences, constraints, needs, and pain points. Prioritize characteristics supported by your data rather than attempting to describe every aspect of a person.`
-                        })]
-                    }), (0, h.jsxs)(`section`, {
-                        className: `assignment-subsection`,
-                        children: [(0, h.jsxs)(`header`, {
-                            children: [(0, h.jsx)(`span`, {
-                                children: `3.3`
-                            }), (0, h.jsx)(`div`, {
-                                children: (0, h.jsx)(`h3`, {
-                                    children: `personas`
-                                })
-                            })]
-                        }), (0, h.jsx)(`p`, {
-                            children: `Create at least three personas based on your user profiles and research findings. Briefly explain how each persona was derived from patterns in your data. Each persona should include a fictitious name and appropriate contextual or demographic information, along with their goals, needs, behaviors, preferences, motivations, constraints, and pain points. Include a short scenario that illustrates the persona's context and relevant needs.`
-                        }), (0, h.jsx)(`p`, {
-                            children: `You are encouraged to communicate personas visually using photographs or illustrations, quotations, charts, icons, or other design elements. Be creative, but remember that a persona should communicate research insights, not decorate assumptions. Every important characteristic should be traceable to something you learned from your research.`
-                        })]
-                    }), (0, h.jsx)(ee, {
-                        title: `resources`,
-                        links: re
-                    })]
-                })]
-            }), (0, h.jsxs)(`section`, {
-                className: `assignment-section assignment-section-deep`,
-                id: `section-4`,
-                children: [(0, h.jsx)(`div`, {
-                    className: `assignment-number`,
-                    children: `4`
-                }), (0, h.jsxs)(`div`, {
-                    className: `assignment-content`,
-                    children: [(0, h.jsxs)(`header`, {
-                        className: `assignment-heading`,
-                        children: [(0, h.jsx)(`div`, {
-                            children: (0, h.jsx)(`h2`, {
-                                children: `task scenarios`
-                            })
-                        }), (0, h.jsx)(`span`, {
-                            children: `10 points`
-                        })]
-                    }), (0, h.jsx)(`div`, {
-                        className: `assignment-copy`,
-                        children: (0, h.jsx)(`p`, {
-                            children: `Use your research findings and user models to define what your design needs to support before deciding exactly how it will support it. At this stage, focus on users' goals, contexts, activities, and challenges rather than prematurely designing screens, features, or interface flows.`
-                        })
-                    }), (0, h.jsxs)(`section`, {
-                        className: `assignment-subsection`,
-                        children: [(0, h.jsxs)(`header`, {
-                            children: [(0, h.jsx)(`span`, {
-                                children: `4.1`
-                            }), (0, h.jsxs)(`div`, {
-                                children: [(0, h.jsx)(`h3`, {
-                                    children: `analysis approach`
-                                }), (0, h.jsx)(`p`, {
-                                    children: `recommended length: 300–500 words`
-                                })]
-                            })]
-                        }), (0, h.jsx)(`p`, {
-                            children: `Explain how findings from your user studies, personas, and team discussions informed the scenarios you selected. Make the connection between evidence and requirements explicit. Why are these situations important? Which findings suggest that your project should address them? Explain how you selected and prioritized the activities represented in your scenarios.`
-                        })]
-                    }), (0, h.jsxs)(`section`, {
-                        className: `assignment-subsection`,
-                        children: [(0, h.jsxs)(`header`, {
-                            children: [(0, h.jsx)(`span`, {
-                                children: `4.2`
-                            }), (0, h.jsx)(`div`, {
-                                children: (0, h.jsx)(`h3`, {
-                                    children: `task scenarios`
-                                })
-                            })]
-                        }), (0, h.jsx)(`p`, {
-                            children: `Create at least 10 scenarios in total, including at least one of each of the following: problem scenarios, user stories, activity scenarios, and interaction scenarios. Scenarios are concrete stories of use that describe users, their goals, activities, and contexts. They should reflect meaningful differences in user goals, needs, or situations rather than minor variations of the same task.`
-                        }), (0, h.jsx)(`p`, {
-                            children: `Problem scenarios should describe the current situation, including the user's goal, context, and difficulty, without introducing your proposed solution. User stories should concisely communicate who needs something, what they need to accomplish, and why. Activity scenarios should describe how users might accomplish their goals at a conceptual level without committing to specific interface details. Interaction scenarios may describe a more detailed sequence of user actions and system responses, but should still avoid fully specifying the interface.`
-                        }), (0, h.jsx)(`p`, {
-                            children: `For activity and interaction scenarios, clearly state the user's goal and relevant prerequisites, identify important subtasks or steps, and consider alternative paths, exceptions, or error situations where appropriate. Think of this section as designing the task before designing the interface.`
-                        })]
-                    }), (0, h.jsx)(ee, {
-                        title: `resources`,
-                        links: w
-                    })]
-                })]
-            })]
+            }), (0, h.jsxs)(`section`, {className: `assignment-section assignment-section-deep`, id: `section-3`, children: [(0, h.jsx)("div", {className: `assignment-number`, children: "3"}), (0, h.jsxs)(`div`, {className: `assignment-content`, children: [(0, h.jsxs)(`header`, {className: `assignment-heading`, children: [(0, h.jsx)("div", {children: (0, h.jsx)("h2", {children: "personas and scenarios"})}),(0, h.jsx)("span", {children: "10 points"})]}),(0, h.jsx)("div", {className: `assignment-copy`, children: (0, h.jsx)("p", {children: "Use personas and scenarios to communicate what your research reveals about users and their experiences."})}),(0, h.jsxs)(`section`, {className: `assignment-subsection`, children: [(0, h.jsxs)(`header`, {children: [(0, h.jsx)("span", {children: "3.1"}),(0, h.jsx)("div", {children: (0, h.jsx)("h3", {children: "personas"})})]}),(0, h.jsx)("p", {children: "Create at least three personas based on meaningful patterns in your research. Give each persona a name and describe their goals, behaviors, and needs. Briefly explain the evidence behind each persona and avoid unsupported details."})]}),(0, h.jsxs)(`section`, {className: `assignment-subsection`, children: [(0, h.jsxs)(`header`, {children: [(0, h.jsx)("span", {children: "3.2"}),(0, h.jsx)("div", {children: (0, h.jsx)("h3", {children: "scenarios"})})]}),(0, h.jsx)("p", {children: "Write at least three scenarios showing your personas pursuing relevant goals in context. Describe what happens, the difficulties they encounter, and the outcome. Ground the stories in your findings and clearly distinguish any imagined future situations from current experiences."})]}),(0, h.jsx)(ee, {title: `resources`, links: re})]})]}), (0, h.jsxs)(`section`, {className: `assignment-section assignment-section-deep`, id: `section-4`, children: [(0, h.jsx)("div", {className: `assignment-number`, children: "4"}), (0, h.jsxs)(`div`, {className: `assignment-content`, children: [(0, h.jsxs)(`header`, {className: `assignment-heading`, children: [(0, h.jsx)("div", {children: (0, h.jsx)("h2", {children: "task analysis and user requirements"})}),(0, h.jsx)("span", {children: "10 points"})]}),(0, h.jsx)("div", {className: `assignment-copy`, children: (0, h.jsx)("p", {children: "Use your research and scenarios to understand important tasks and define what your design needs to support."})}),(0, h.jsxs)(`section`, {className: `assignment-subsection`, children: [(0, h.jsxs)(`header`, {children: [(0, h.jsx)("span", {children: "4.1"}),(0, h.jsx)("div", {children: (0, h.jsx)("h3", {children: "hierarchical task analysis (hta)"})})]}),(0, h.jsx)("p", {children: "Create an HTA for at least two important tasks from your scenarios. Break each task into a hierarchy of goals and subtasks, with a short plan explaining their order and any important conditions. Briefly explain what the analysis reveals for your design."})]}),(0, h.jsxs)(`section`, {className: `assignment-subsection`, children: [(0, h.jsxs)(`header`, {children: [(0, h.jsx)("span", {children: "4.2"}),(0, h.jsx)("div", {children: (0, h.jsx)("h3", {children: "user requirements"})})]}),(0, h.jsx)("p", {children: "Identify at least five user requirements based on your research and task analyses. For each, state what users need to accomplish, the evidence supporting it, and how you will check whether your design meets it. Focus on user needs rather than a list of features."})]}),(0, h.jsxs)(`section`, {className: `assignment-subsection`, children: [(0, h.jsx)("h3", {children: "rich picture (optional · up to 5 bonus points)"}),(0, h.jsx)("p", {children: "Create a rich picture showing the people, relationships, and concerns surrounding your problem. Briefly explain what it reveals beyond your personas and task analyses. Up to 5 bonus points will be awarded for a clear, research-grounded picture that adds useful insight."})]}), (0, h.jsx)(ee, {title: `resources`, links: w})]})]})]
         }), (0, h.jsxs)(`section`, {
             className: `milestone-support-section`,
             children: [(0, h.jsxs)(`header`, {
                 children: [(0, h.jsx)(`p`, {
-                    children: `40 points total`
+                    children: `40 points + up to 5 bonus points`
                 }), (0, h.jsx)(`h2`, {
                     children: `grading`
                 })]
             }), (0, h.jsx)(`div`, {
                 children: (0, h.jsx)(`p`, {
-                    children: `Each major section is worth 10 points, for a total of 40 points. Full credit requires clear, specific, and well-supported work that demonstrates a strong connection between research procedure, evidence, findings, user models, and task scenarios. Your conclusions and design requirements should be traceable to what you actually learned from users rather than assumptions made before the study.`
+                    children: `Each major section is worth 10 points, for a total of 40 points. Full credit requires clear connections between your research evidence, personas, scenarios, task analyses, and user requirements. An optional rich picture can earn up to 5 additional bonus points for useful, research-grounded insight.`
                 })
             })]
         }), (0, h.jsxs)(`section`, {
