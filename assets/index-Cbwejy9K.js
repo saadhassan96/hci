@@ -9486,7 +9486,7 @@ Error generating stack: ` + e.message + `
         thursday: `communication and collaboration`,
         due: `quiz 3 · sep 3, 11:00 am`,
         details: [{
-            label: `reading 1`,
+            label: `required reading`,
             items: [{
                 title: `none`
             }]
@@ -9512,7 +9512,7 @@ Error generating stack: ` + e.message + `
         due: `quiz 4 · sep 10, 11:00 am; milestone 1 · sep 13, 5:00 pm`,
         note: `labor day on monday`,
         details: [{
-            label: `reading 1`,
+            label: `required reading`,
             items: [{
                 title: `how to understand problems — design methods`,
                 url: `https://faculty.washington.edu/ajko/books/design-methods/understand`
@@ -9534,8 +9534,27 @@ Error generating stack: ` + e.message + `
         dates: `sep 14–18`,
         focus: `understanding users 2`,
         tuesday: `unobtrusive research methods`,
-        thursday: `modeling`,
-        due: `quiz 5 · sep 17, 11:00 am`
+        thursday: `representation`,
+        due: `quiz 5 · sep 17, 11:00 am`,
+        details: [{
+            label: `required reading`,
+            items: [{
+                title: `none`
+            }]
+        }, {
+            label: `suggested readings`,
+            items: [{
+                title: `chapters 14 and 15 — hornbæk et al. (2025)`,
+                url: `https://academic.oup.com/book/60808?login=false`
+            }]
+        }, {
+            label: `notes and resources`,
+            items: [{
+                title: `quiz 5`
+            }, {
+                title: `feedback on milestone 1 in class`
+            }]
+        }]
     }, {
         week: 6,
         dates: `sep 21–25`,
@@ -11922,7 +11941,7 @@ function pe({
     return (0, h.jsx)(`div`, {
         className: `schedule-details`,
         children: (e.details || [{
-            label: `reading 1`,
+            label: `required reading`,
             items: [{
                 title: `to be added`
             }]
