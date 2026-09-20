@@ -9665,7 +9665,7 @@ Error generating stack: ` + e.message + `
         description: `evaluate, revise, and communicate the completed design while connecting the full story of the semester project.`,
         deliverables: [`individual contribution`, `heuristic evaluation and prototype revision`, `user testing and final design`]
     }],
-    p = [`conduct interviews, focus groups, contextual inquiries, and surveys in real-world settings to understand users’ aspirations, goals, and challenges.`, `interpret and synthesize complex problems by identifying patterns in user research data and testing design concepts.`, `develop design sketches, low-fidelity prototypes, and storyboards that show how a design would be used.`, `conduct analytical evaluations through heuristic testing and experimental evaluations through controlled studies.`, `analyze user research data using thematic coding and statistical methods.`, `apply commonly used descriptive and predictive models in hci.`, `communicate findings from research and evaluation in presentations, user experience reports, and research papers.`],
+    p = [`conduct interviews, contextual inquiries, surveys, and unobtrusive research to understand users’ needs, goals, and contexts.`, `interpret and synthesize user research findings to represent users and their activities and identify design opportunities.`, `explore and refine design alternatives through sketches, low-fidelity prototypes, and storyboards.`, `conduct analytical evaluations through heuristic evaluation and empirical evaluations through usability testing and controlled studies.`, `analyze research and evaluation data using thematic coding and statistical methods.`, `apply theories of interaction and descriptive and predictive models in hci to inform design decisions.`, `communicate research findings, design rationale, and evaluation results through presentations and project reports.`],
     m = e((e => {
         var t = Symbol.for(`react.transitional.element`),
             n = Symbol.for(`react.fragment`);
@@ -9801,7 +9801,7 @@ function _() {
             }), (0, h.jsx)(`div`, {
                 className: `prose`,
                 children: (0, h.jsx)(`p`, {
-                    children: `this course introduces graduate and undergraduate students to foundational theories, techniques, and research methods in human–computer interaction. topics include perception and cognition, graphical design, qualitative and quantitative user research, interaction modeling, prototyping, and evaluation. the course also examines human–ai interaction, accessible computing, ubiquitous computing, and augmented reality. all students will apply these concepts in a semester-long project.`
+                    children: `this course introduces graduate and undergraduate students to the foundations of human–computer interaction, from understanding people and studying users to designing and evaluating interactive systems. topics include perception and cognition, user research, theories of interaction, user interfaces, design methods, prototyping, and evaluation.the course integrates human–ai interaction throughout and touches on emerging frontiers in hci. students will apply these concepts through a semester-long design project.`
                 })
             })]
         }), (0, h.jsxs)(`section`, {
