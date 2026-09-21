@@ -9801,7 +9801,7 @@ function _() {
             }), (0, h.jsx)(`div`, {
                 className: `prose`,
                 children: (0, h.jsx)(`p`, {
-                    children: `this course introduces graduate and undergraduate students to the foundations of human–computer interaction, from understanding people and studying users to designing and evaluating interactive systems. topics include perception and cognition, user research, theories of interaction, user interfaces, design methods, prototyping, and evaluation.the course integrates human–ai interaction throughout and touches on emerging frontiers in hci. students will apply these concepts through a semester-long design project.`
+                    children: `this course introduces graduate and undergraduate students to the foundations of human–computer interaction, from understanding people and studying users to designing and evaluating interactive systems. topics include perception and cognition, user research, theories of interaction, user interfaces, design methods, prototyping, and evaluation. the course integrates human–ai interaction throughout and touches on emerging frontiers in hci. students will apply these concepts through a semester-long design project.`
                 })
             })]
         }), (0, h.jsxs)(`section`, {
