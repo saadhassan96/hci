@@ -9559,9 +9559,43 @@ Error generating stack: ` + e.message + `
         week: 6,
         dates: `sep 21–25`,
         focus: `interaction`,
-        tuesday: `tbd`,
-        thursday: `tbd`,
-        due: `quiz 6 · sep 22, 11:00 am`
+        tuesday: `information and control, dialogue, tool use`,
+        thursday: `automation, rationality, practice`,
+        due: `quiz 6 · sep 22, 11:00 am`,
+        details: [{
+            label: `tuesday reading · chapters 17–19`,
+            items: [{
+                title: `part iv: understanding interaction — hornbæk et al. (2025)` ,
+                url: `https://academic.oup.com/book/60808/chapter/529000728`
+            }, {
+                title: `chapter 17: information and control`,
+                url: `https://doi.org/10.1093/oso/9780192864543.003.0017`
+            }, {
+                title: `chapter 18: dialogue`,
+                url: `https://academic.oup.com/book/60808/chapter/529001009`
+            }, {
+                title: `chapter 19: tool use`,
+                url: `https://academic.oup.com/book/60808/chapter/529001095`
+            }]
+        }, {
+            label: `thursday reading · chapters 20–22`,
+            items: [{
+                title: `chapter 20: automation`,
+                url: `https://academic.oup.com/book/60808/chapter/529001205`
+            }, {
+                title: `chapter 21: rationality`,
+                url: `https://academic.oup.com/book/60808/chapter/529001308`
+            }, {
+                title: `chapter 22: practice`,
+                url: `https://academic.oup.com/book/60808/chapter/529001443`
+            }]
+        }, {
+            label: `notes and resources`,
+            items: [{
+                title: `quiz 6 due sep 22, 11:00 am · complete on canvas`,
+                url: `https://tulane.instructure.com/`
+            }]
+        }]
     }, {
         week: 7,
         dates: `sep 28–oct 2`,
