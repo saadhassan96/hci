@@ -1,22 +1,27 @@
 # Human–Computer Interaction · Fall 2026
 
-Course website for **CMPS 4330 / CMPS 6330: Human–Computer Interaction** at Tulane University.
+Course website for CMPS 4330 / CMPS 6330: Human–Computer Interaction at Tulane University.
 
-**Live site:** [saadh.info/hci](https://saadh.info/hci/)
+- Live site: https://saadh.info/hci/
+- [Schedule](https://saadh.info/hci/schedule/) · [Project](https://saadh.info/hci/project/) · [Teams](https://saadh.info/hci/teams/) · [Syllabus](https://saadh.info/hci/syllabus/)
+- Previous course site (Jekyll): [archive/previous-site](archive/previous-site/)
+- Instructor: [Saad Hassan](https://saadh.info)
 
-## Course site
+## Run locally
 
-- [Schedule](https://saadh.info/hci/schedule/)
-- [Project](https://saadh.info/hci/project/)
-- [Teams](https://saadh.info/hci/teams/)
-- [Syllabus](https://saadh.info/hci/syllabus/)
+The repo holds the built static site, so there is no build step. Pages load
+files from `/hci/`, so serve the folder that contains `hci/`:
 
-## Deployment
+```
+cd ..
+python3 -m http.server 8000
+```
 
-This repository contains the static GitHub Pages deployment for the course site. GitHub Pages publishes the root of the `main` branch at `https://saadh.info/hci/`.
+Then visit http://localhost:8000/hci/.
 
-The current Fall 2026 site replaced the previous Jekyll course site. The earlier site and its supporting files are preserved in [`archive/previous-site`](archive/previous-site/).
+Pushing to `main` publishes the site with GitHub Pages at saadh.info/hci/.
 
-## Updating the site
+## License
 
-Publish validated site changes to `main`, then wait for the GitHub Pages build to complete. Keep route entry pages and their referenced assets in sync so direct links and client-side navigation load the same version.
+Code is under the MIT License. Course materials, text, and images are
+copyright Saad Hassan, all rights reserved. See [LICENSE](LICENSE).
