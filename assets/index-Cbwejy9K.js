@@ -9591,9 +9591,9 @@ Error generating stack: ` + e.message + `
         week: 8,
         dates: `oct 5–9`,
         focus: `interfaces`,
-        tuesday: `presentations 1`,
-        thursday: `tbd`,
-        due: `quiz 7 · oct 8, 11:00 am; milestone 2 · oct 7, 5:00 pm`
+        tuesday: `user interfaces, inputs, displays`,
+        thursday: `interaction techniques, commands and navigation, GUI, reality-based interaction`,
+        due: `quiz 7 · oct 8, 11:00 am`
     }, {
         week: 9,
         dates: `oct 12–16`,
@@ -9605,10 +9605,10 @@ Error generating stack: ` + e.message + `
     }, {
         week: 10,
         dates: `oct 19–23`,
-        focus: `experiments`,
-        tuesday: `study design`,
+        focus: `presentation 1`,
+        tuesday: `engineering`,
         thursday: `hypothesis testing`,
-        due: `quiz 9 · oct 22, 11:00 am`
+        due: `quiz 9 · oct 22, 11:00 am; presentation 1  · oct 20, 10:00 am; milestone 2 · oct 21, 5:00 pm`
     }, {
         week: 11,
         dates: `oct 26–30`,
@@ -9620,15 +9620,15 @@ Error generating stack: ` + e.message + `
         week: 12,
         dates: `nov 2–6`,
         focus: `evaluation`,
-        tuesday: `tbd`,
-        thursday: `tbd`,
+        tuesday: `heuristic`,
+        thursday: `analytical`,
         due: `quiz 10 · nov 5, 11:00 am`
     }, {
         week: 13,
         dates: `nov 9–13`,
-        focus: `hci frontiers`,
-        tuesday: `tbd`,
-        thursday: `tbd`,
+        focus: `experiments`,
+        tuesday: `experiment design`,
+        thursday: `hypothesis testing`,
         due: `quiz 11 · nov 12, 11:00 am; milestone 3 · nov 11, 5:00 pm`
     }, {
         week: 14,
