@@ -9593,22 +9593,76 @@ Error generating stack: ` + e.message + `
         focus: `interfaces`,
         tuesday: `user interfaces, inputs, displays`,
         thursday: `interaction techniques, commands and navigation, GUI, reality-based interaction`,
-        due: `quiz 7 · oct 8, 11:00 am`
+        due: `quiz 7 · oct 8, 11:00 am`,
+        details: [{
+            label: `required reading`,
+            items: [{
+                title: `none`
+            }]
+        }, {
+            label: `suggested readings`,
+            items: [{
+                title: `chapters 23–29 (part v: interfaces) — hornbæk et al. (2025)`,
+                url: `https://academic.oup.com/book/60808?login=false`
+            }, {
+                title: `direct manipulation: a step beyond programming languages — shneiderman (1983)`,
+                url: `https://doi.org/10.1109/MC.1983.1654471`
+            }, {
+                title: `reality-based interaction: a framework for post-wimp interfaces — jacob et al. (2008)`,
+                url: `https://dl.acm.org/doi/10.1145/1357054.1357089`
+            }]
+        }, {
+            label: `notes and resources`,
+            items: [{
+                title: `quiz 7 due oct 8, 11:00 am · complete on canvas`,
+                url: `https://tulane.instructure.com/`
+            }]
+        }]
     }, {
         week: 9,
         dates: `oct 12–16`,
         focus: `engineering`,
-        tuesday: `systems thinking`,
-        thursday: `end-user development`,
-        due: `quiz 8 · oct 15, 11:00 am`,
-        note: `mid-term grades available`
+        tuesday: `reality-based interaction (wrap-up), introduction to engineering, prototyping in figma`,
+        thursday: `systems thinking, system mapping, design engineering, figma make`,
+        due: `quiz 8 · oct 15, 11:00 am; test 1 regrade requests · oct 16`,
+        note: `mid-term grades available`,
+        details: [{
+            label: `required reading`,
+            items: [{
+                title: `none`
+            }]
+        }, {
+            label: `suggested readings`,
+            items: [{
+                title: `chapters 34–36 (part vii: engineering) — hornbæk et al. (2025)`,
+                url: `https://academic.oup.com/book/60808?login=false`
+            }, {
+                title: `preheat: controlling home heating using occupancy prediction — scott et al. (2011)`,
+                url: `https://eprints.lancs.ac.uk/id/eprint/55987`
+            }, {
+                title: `sensecam: a retrospective memory aid — hodges et al. (2006)`,
+                url: `https://www.microsoft.com/en-us/research/wp-content/uploads/2006/09/sensecam-ubicomp-2006-camera-ready.pdf`
+            }]
+        }, {
+            label: `notes and resources`,
+            items: [{
+                title: `quiz 8 due oct 15, 11:00 am · complete on canvas`,
+                url: `https://tulane.instructure.com/`
+            }, {
+                title: `test 1 regrade requests due oct 16 · submit on gradescope`,
+                url: `https://www.gradescope.com/`
+            }, {
+                title: `get the free figma education plan with your tulane email`,
+                url: `https://www.figma.com/education/apply`
+            }]
+        }]
     }, {
         week: 10,
         dates: `oct 19–23`,
         focus: `presentation 1`,
         tuesday: `engineering`,
-        thursday: `hypothesis testing`,
-        due: `quiz 9 · oct 22, 11:00 am; presentation 1  · oct 20, 10:00 am; milestone 2 · oct 21, 5:00 pm`
+        thursday: `safety and risk, software, computational methods`,
+        due: `quiz 9 · oct 22, 11:00 am; presentation 1 · oct 20, 5:00 pm; milestone 2 · oct 21, 5:00 pm`
     }, {
         week: 11,
         dates: `oct 26–30`,
@@ -9650,7 +9704,7 @@ Error generating stack: ` + e.message + `
         focus: `final presentations`,
         tuesday: `second presentations`,
         thursday: `expo`,
-        due: `milestone 4 · dec 3, 5:00 pm`
+        due: `presentation 2 · nov 30, 5:00 pm; expo & demo · dec 2, 5:00 pm; milestone 4 · dec 4, 5:00 pm`
     }, {
         week: 17,
         dates: `dec 7–11`,
@@ -9667,7 +9721,7 @@ Error generating stack: ` + e.message + `
     }, {
         number: `2`,
         title: `getting the right design`,
-        due: `october 7 · 5:00 pm`,
+        due: `october 21 · 5:00 pm`,
         description: `conduct two complementary user-research methods, synthesize personas and scenarios, and derive task analyses and user requirements.`,
         deliverables: [`user research methods and findings`, `at least three personas and three scenarios`, `at least two HTAs and five prioritized user requirements`]
     }, {
@@ -9679,7 +9733,7 @@ Error generating stack: ` + e.message + `
     }, {
         number: `4`,
         title: `getting the design right`,
-        due: `december 3 · 5:00 pm`,
+        due: `december 4 · 5:00 pm`,
         description: `evaluate, revise, and communicate the completed design while connecting the full story of the semester project.`,
         deliverables: [`individual contribution`, `heuristic evaluation and prototype revision`, `user testing and final design`]
     }],
@@ -10313,7 +10367,7 @@ function ie() {
                     children: `getting the right design`
                 })]
             }), (0, h.jsx)(`time`, {
-                children: `october 7 · 5:00 pm`
+                children: `october 21 · 5:00 pm`
             })]
         }), (0, h.jsxs)(`section`, {
             className: `milestone-goal`,
@@ -11166,7 +11220,7 @@ function E() {
                     children: `getting the design right`
                 })]
             }), (0, h.jsx)(`time`, {
-                children: `december 3 · 5:00 pm`
+                children: `december 4 · 5:00 pm`
             })]
         }), (0, h.jsxs)(`section`, {
             className: `milestone-goal`,
@@ -11611,7 +11665,7 @@ var de = [{
     label: `milestone 2`,
     title: `getting the right design`,
     points: `40 points`,
-    date: `oct 7 · 5:00 pm`,
+    date: `oct 21 · 5:00 pm`,
     href: `#milestone-2`
 }, {
     label: `milestone 3`,
@@ -11623,25 +11677,25 @@ var de = [{
     label: `final milestone`,
     title: `getting the design right`,
     points: `80 points`,
-    date: `dec 3 · 5:00 pm`,
+    date: `dec 4 · 5:00 pm`,
     href: `#milestone-4`
 }, {
     label: `presentation 1`,
     title: `research and design direction`,
     points: `20 points`,
-    date: `oct 6 · in class`,
+    date: `oct 20 · 5:00 pm`,
     href: `#presentation-1`
 }, {
     label: `presentation 2`,
     title: `prototype, evaluation, and final design`,
     points: `20 points`,
-    date: `dec 1 · in class`,
+    date: `nov 30 · 5:00 pm`,
     href: `#presentation-2`
 }, {
     label: `expo & demo`,
     title: `interactive final-system demonstration`,
     points: `20 points`,
-    date: `dec 3 · in class`,
+    date: `dec 2 · 5:00 pm`,
     href: `#expo-demo`
 }];
 
