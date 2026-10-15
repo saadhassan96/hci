@@ -9621,7 +9621,7 @@ Error generating stack: ` + e.message + `
     }, {
         week: 9,
         dates: `oct 12–16`,
-        focus: `engineering`,
+        focus: `engineering 1`,
         tuesday: `reality-based interaction (wrap-up), introduction to engineering, prototyping in figma`,
         thursday: `systems thinking, system mapping, design engineering, figma make`,
         due: `quiz 8 · oct 15, 11:00 am; test 1 regrade requests · oct 16`,
@@ -9659,8 +9659,8 @@ Error generating stack: ` + e.message + `
     }, {
         week: 10,
         dates: `oct 19–23`,
-        focus: `presentation 1`,
-        tuesday: `engineering`,
+        focus: `engineering 2`,
+        tuesday: `presentations 1`,
         thursday: `safety and risk, software, computational methods`,
         due: `quiz 9 · oct 22, 11:00 am; presentation 1 · oct 20, 5:00 pm; milestone 2 · oct 21, 5:00 pm`
     }, {
